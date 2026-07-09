@@ -1,1 +1,1 @@
-select customer_id,concat(first_name,'_',last_name) as full_name from {{ source('s1', 'customers') }}
+select *  from {{ source('s1', 'customers') }}

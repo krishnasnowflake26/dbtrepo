@@ -7,3 +7,5 @@ sources:
       - name: payment
       - name: customers
       - name: emp      
+      - name: t_tickets        
+      - name: t_customer              

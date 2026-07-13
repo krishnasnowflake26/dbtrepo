@@ -1,0 +1,11 @@
+sources:
+  - name: s1
+    database: dev_db
+    schema: bronze
+    tables:
+      - name: orders
+      - name: payment
+      - name: customers
+      - name: emp      
+      - name: t_tickets        
+      - name: t_customer              
